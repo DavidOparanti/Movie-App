@@ -1,3 +1,5 @@
+# Movies App
+
 ![screenshot](public/img/movie.png)
 
 ## Installation
